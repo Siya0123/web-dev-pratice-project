@@ -1,0 +1,12 @@
+&#60!doctype html&#62
+    &#60html lang="en"&#62
+    &#60head&#62 &#60head&#62
+      &#60meta charset="utf-8"&#62
+      &#60title&#62My Page Title&#60title&#62
+      &#60meta name="description" content="My Page Description"&#62
+      &#60link rel="stylesheet" href="css/styles.css?v=1.0"&#62
+    &#60head&#62
+    &#60body&#62
+      &#60script src="js/scripts.js"script&#62
+    &#60body&#62
+    &#60html&#62
